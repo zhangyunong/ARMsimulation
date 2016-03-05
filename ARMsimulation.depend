@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457165109 source:c:\users\雨浓\desktop\学习\数据结构程序\作业程序\armsimulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
